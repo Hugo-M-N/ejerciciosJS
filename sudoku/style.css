@@ -10,9 +10,33 @@ html {
     font-family: system-ui;
 }
 
+.inicio{
+    text-align: center;
+    color: white;
+    font-size: 4rem;
+}
+
+.contador {
+    margin: 0;
+    text-align: center;
+    font-size: 3rem;
+    color: white;
+}
+
+.nivel {
+    margin: 2rem auto;
+    width: 7rem;
+    height: 7rem;
+    text-align: center;
+    align-content: center;
+    font-size: 4rem;
+    background-color: white;
+    border-radius: 50%;
+}
+
 table {
     background-color: var(--primaryColor);
-    margin: 4rem auto;
+    margin: 2rem auto;
     border: 1rem solid var(--primaryColor);
     border-radius: 1.5rem;
 }
