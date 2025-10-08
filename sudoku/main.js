@@ -9,7 +9,7 @@ let SSel = 1;
 let contandor = 0;
 let checkAmoun = 45;
 
-
+// Voy a comentar tu código
 const Sudoku =[
     [[
   [5,3,0, 0,7,0, 0,0,0],
